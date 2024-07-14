@@ -1,1 +1,2 @@
-# DjangoClass
+## EDGE Project
+# DjangoClassPractie
